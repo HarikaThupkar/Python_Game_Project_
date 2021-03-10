@@ -11,7 +11,7 @@ setuptools.setup(
     description="A Project to play around in python which has some game projects",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/HarikaThupkar/Tiny_Math",
+    url="https://github.com/HarikaThupkar/Python_Game_Project_",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
